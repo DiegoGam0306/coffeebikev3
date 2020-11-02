@@ -1,0 +1,17 @@
+{
+    "name": "diego/coffeebikev3",
+    "description": "Proyecto coffe bike v3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DiegoGam0306",
+            "email": "ariangamboa03@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.12",
+        "illuminate/events": "^8.12",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
